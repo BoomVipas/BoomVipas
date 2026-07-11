@@ -45,16 +45,11 @@ Previously: data science intern at **GPSC**, building an automated Thai invoice 
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BoomVipas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomVipas&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoomVipas&theme=tokyonight&hide_border=true" />
-</p>
+- 21 public repositories spanning voice AI, computer vision, and full-stack products
+- Actively building in Python, TypeScript, and Next.js — daily commits on Callme TH
+- Full contribution history and activity graph on this profile, below ⬇
 
 ---
 
